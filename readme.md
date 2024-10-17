@@ -1,3 +1,3 @@
 # Project Proposal:
 
-[View the full report](VR_Project proposal.pdf)
+[View the full proposal](./VR_Project proposal.pdf)
